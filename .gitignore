@@ -1,0 +1,27 @@
+HELP.md
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+target/
+bin/
+.classpath
+.project
+.settings/
+.idea
+*.iml
+driver/
+driver_zips/
+**/error-screenshots/
+
+node_modules/
+package*.json
+webpack.config.js
+webpack.generated.js
+**/frontend/generated/
